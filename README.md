@@ -1,5 +1,5 @@
 # exe-viewer
-## Allows you to view EXE file headers and imports table with all imported functions in command line
+## Allows you to view EXE file headers and imports table with all imported functions in command line, also you can use this as a library
 
 `exeFile.cpp` contains ExeFile class that allows you to load file just by name and view headers.
 
