@@ -21,6 +21,6 @@ in `example.cpp` i wrote a sample code you can view exe file headers and etc. wi
 
 ## Screenshots
 
-![Alt text](https://i.ibb.co/CswKt9Fp/Screenshot-2025-06-30-141434.png)
-![Alt text](https://i.ibb.co/Z6BsCR2n/Screenshot-2025-06-30-141621.png)
-![Alt text](https://i.ibb.co/fYSNDz6X/Screenshot-2025-06-30-141713.png)
+![1](https://i.ibb.co/CswKt9Fp/Screenshot-2025-06-30-141434.png)
+![2](https://i.ibb.co/Z6BsCR2n/Screenshot-2025-06-30-141621.png)
+![3](https://i.ibb.co/fYSNDz6X/Screenshot-2025-06-30-141713.png)
