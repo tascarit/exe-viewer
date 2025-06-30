@@ -13,9 +13,11 @@
 
 in `example.cpp` i wrote a sample code you can view exe file headers and etc. with.
 
-## Example compilation
+## Example compilation for Windows
 
 `g++ -o example.exe example.cpp exeFile.cpp utility.cpp structures.cpp`
+
+Example usage: `.\example.exe` and after that type path to your target EXE file
 
 ### I'm just starting to learn this topic so this code probably containing bugs, feel free to post them in issues
 
